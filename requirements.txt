@@ -1,0 +1,7 @@
+## The following requirements were added by pip freeze:
+flask
+python-socketio
+requests
+base58
+solders
+python-dotenv
